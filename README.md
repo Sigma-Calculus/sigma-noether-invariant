@@ -22,7 +22,7 @@ that reproduces all numerical checks.
 ```bash
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
-python sigma_noether_test.py    # default: 4×4 open grid
+python sigma_noether_test.py    # default: 8×8 open grid
 ````
 
 The script prints
