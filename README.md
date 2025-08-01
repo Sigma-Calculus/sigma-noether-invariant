@@ -1,5 +1,4 @@
 
-
 # σ‑Noether‑Invariant – minimal reproduction script
 
 This repository accompanies the paper
@@ -16,7 +15,7 @@ that reproduces all numerical checks.
 | File | Description |
 |------|-------------|
 | `sigma_noether_test.py` | Builds a lattice, performs harmonic projection, applies a symmetry operator, and verifies δQ ≤ 1e‑10. |
-| `requirements.txt` | Only `numpy >= 1.24` is required. |
+| `requirements.txt` | Only `numpy >= 1.24` and scipy>=1.11 is required. |
 
 ## Usage
 ```bash
