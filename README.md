@@ -6,6 +6,8 @@ This repository accompanies the paper
 
 > O. Sievers, *Gauge‑Reduced Discrete Noether Invariants
 > in the Sigma Calculus* (2025).
+>
+> https://zenodo.org/records/16669372
 
 It provides a **single self‑contained Python script**
 that reproduces all numerical checks.
